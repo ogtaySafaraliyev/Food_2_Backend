@@ -1,7 +1,6 @@
-package com.food2.dto.dto.setting;
+package com.food2.dto.setting;
 
 
-import com.food2.dto.setting.settingTranslation.SettingTranslationResponseDto;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
@@ -9,6 +8,8 @@ import lombok.Setter;
 
 import java.time.LocalDateTime;
 import java.util.List;
+
+import com.food2.dto.settingTranslation.SettingTranslationResponseDto;
 
 @Getter
 @Setter

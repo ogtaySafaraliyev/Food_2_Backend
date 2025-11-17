@@ -1,6 +1,6 @@
 package com.food2.mapper;
 
-import com.food2.dto.setting.settingTranslation.*;
+import com.food2.dto.settingTranslation.*;
 import com.food2.entity.SettingTranslation;
 import org.mapstruct.*;
 

@@ -1,7 +1,7 @@
 package com.food2.controller;
 
-import com.food2.dto.dto.setting.SettingResponseDto;
 import com.food2.dto.setting.SettingCreateDto;
+import com.food2.dto.setting.SettingResponseDto;
 import com.food2.dto.setting.SettingUpdateDto;
 import com.food2.service.SettingService;
 import jakarta.validation.Valid;

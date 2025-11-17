@@ -1,8 +1,8 @@
 package com.food2.mapper;
 
 
-import com.food2.dto.dto.setting.SettingResponseDto;
 import com.food2.dto.setting.SettingCreateDto;
+import com.food2.dto.setting.SettingResponseDto;
 import com.food2.dto.setting.SettingUpdateDto;
 import com.food2.entity.Setting;
 import org.mapstruct.Mapper;

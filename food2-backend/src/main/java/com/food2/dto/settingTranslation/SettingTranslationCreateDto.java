@@ -1,4 +1,4 @@
-package com.food2.dto.setting.settingTranslation;
+package com.food2.dto.settingTranslation;
 
 
 import lombok.AllArgsConstructor;
@@ -10,8 +10,7 @@ import lombok.Setter;
 @Setter
 @NoArgsConstructor
 @AllArgsConstructor
-public class SettingTranslationResponseDto {
-    private Long id;
+public class SettingTranslationCreateDto {
     private String lang;
     private String value;
 }

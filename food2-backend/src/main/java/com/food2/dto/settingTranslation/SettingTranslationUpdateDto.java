@@ -1,4 +1,4 @@
-package com.food2.dto.setting.settingTranslation;
+package com.food2.dto.settingTranslation;
 
 import com.food2.entity.Language;
 import jakarta.validation.constraints.NotBlank;

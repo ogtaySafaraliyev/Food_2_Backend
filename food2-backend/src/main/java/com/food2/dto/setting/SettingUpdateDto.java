@@ -1,13 +1,14 @@
 package com.food2.dto.setting;
 
 
-import com.food2.dto.setting.settingTranslation.SettingTranslationUpdateDto;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
 import java.util.List;
+
+import com.food2.dto.settingTranslation.SettingTranslationUpdateDto;
 
 @Getter
 @Setter
